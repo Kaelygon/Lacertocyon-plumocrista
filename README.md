@@ -10,18 +10,18 @@ This speculative species is public domain. You must change the original name in 
 
 ## Summary
 
-**Lacertocyon plumocrista** (*feather crested lizard dog*), also known as *feather maned dragon* or simply *maned dragon*.
+**Lacertocyon plumocrista** (*feather crested lizard dog*), also known as *feather maned dragon* or simply *maned dragon*.  
 Despite the name and similarities to reptiles and canines, Lacertocyon belongs to an entirely different family, Lacertherids, that diverged from late Eutherians.
 
 **Temporal range:** Pliocene to present
 ### Scientific classification
-+ Kingdom: Animalia
-+ Phylum: Chordata
-+ Class: Mammalia
-+ Order: Lacertheriformes
-+ Family: Lacertheridae
-+ Genus: Lacertocyon
-+ Species: plumocrista
+ Kingdom: Animalia  
+ Phylum: Chordata  
+ Class: Mammalia  
+ Order: Lacertheriformes  
+ Family: Lacertheridae  
+ Genus: Lacertocyon  
+ Species: plumocrista  
  
 ### Traits
 - On average: 100 cm tall at withers, weight 45 kg
