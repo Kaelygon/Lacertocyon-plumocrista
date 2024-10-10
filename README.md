@@ -46,16 +46,18 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
 ---
   
 ## Appearance  
+### Fur coat
 - Maned dragons are covered in thin fur, and they have a feathered mane that reaches from their head down to the tip of the tail. The mane consists of feather-like [keratinous](https://en.wikipedia.org/wiki/Keratin "Similar composition as the fur") strands, that evolved from fur.  
 - Their mane can puff up to appear bigger when threatened and acts as a protection and in heat regulation on cold nights.  
-- Maned dragons have long ears with tufts at the end.  
 - Their color is a mix of yellows, browns, and greens with lighter [countershading](https://en.wikipedia.org/wiki/Countershading "Lighter underside blends in with shadows for improved camoflauge"). The colorization varies regionally, mostly due to selective breeding and migrating individuals finding success in certain foliage. Seasonal changes can also have an impact on the coat thickness and color.  
+- Their whiskers are as wide as their body front profile. When traversing narrow pathways, these whiskers will indicate when a gap is too narrow to fit.  
+- Maned dragons have long ears to keep their body cool. The tufts at the ear tips help communicate with [conspecifics](# "Members of the same species") and feel what's above their head, similar to whiskers.
+### Physiology
 - The teeth of maned dragon are similar those of canines or raccoons, adapted for an varied diet.  
-- Their whiskers are as wide as their body front profile. When traversing narrow pathways, these whiskers would indicate when the gap is too narrow to fit.  
 - They have five 3-segmented fingers and four 2-segmented toes, which are closer to reptilian hands than canine paws by appearance. While they are decent at swimming and capable of climbing, their legs and feet are specialized in tall foliage and grabbing onto prey.  
 - Their skull streamlined similar to reptiles, with [external nares](# "External nostrils on top of the snout") positioned like crocodiles. They lack a [rhinarium](https://en.wikipedia.org/wiki/rhinarium "External wet nose like dogs or cats"), but smell receptors are still in the nasal cavity. The nasal cavity is wet to help with sensing scents.  
 - Maned dragons have long [digitigrade](https://en.wikipedia.org/wiki/Digitigrade "Stands on toes unlike plantigrades") legs to be able to see in tall foliage, making their gait akin to maned wolves.  
-- The similarities with other mammals are coincidental due to the same environmental pressures that other species faced.  
+The similarities with other mammals are largely coincidental due to the same environmental pressures that other species faced.  
   
 ## Behavior  
 - Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active during daytime"). They have [trichromatic color vision](https://en.wikipedia.org/wiki/Trichromacy "Can distinguish red, green and blue colors"), which is more advantageous in foraging, but this comes at the cost of poorer night vision.  
@@ -98,14 +100,14 @@ The maned dragon evolved a unique venom composition with effects similar to thes
 **Lacertheriformes** diverged from Eutherians before carnivorans and convergently evolved alongside them, developing a unique set of traits.  
 ### Lineage 
 | Clade                                                  | Divergence ([mya](# "Million Years Ago")) |
-| ------------------------------------------------------ | ------------------------------------------ |
-| [Amniota](https://en.wikipedia.org/wiki/Amniote)       | 330                                        |
-| [Cynodontia](https://en.wikipedia.org/wiki/Cynodontia) | 259                                        |
-| Eutheria                                               | 145                                        |
-| Palutherium                                            | 100-66                                     |
-| Palusaurictis                                          | 66                                         |
-| Lacertherids                                           | 34                                         |
-| Lacertocyon                                            | 5.3                                        |
+| ------------------------------------------------------ | ----------------------------------------- |
+| [Amniota](https://en.wikipedia.org/wiki/Amniote)       | 330                                       |
+| [Cynodontia](https://en.wikipedia.org/wiki/Cynodontia) | 259                                       |
+| Eutheria                                               | 145                                       |
+| Palutherium                                            | 100-66                                    |
+| Palusaurictis                                          | 66                                        |
+| Lacertherids                                           | 34                                        |
+| Lacertocyon                                            | 5.3                                       |
   
 ### [Late Cretaceous](https://en.wikipedia.org/wiki/Cretaceous) 100-66 mya  
 **Genus: Palutherium (Marsh beast)**  
@@ -157,7 +159,7 @@ Most of these concepts are derived from real life examples, using [Wikipedia](ht
 [Wiki Maned wolf](https://en.wikipedia.org/wiki/Maned_wolf)  
 [Nationalzoo maned wolf](https://nationalzoo.si.edu/animals/maned-wolf)  
 
-Inspiration from personal and others' artworks  
+Inspiration from personal and others' artworks:  
 [Adleisio Cetacean reproductive anatomy](https://www.deviantart.com/adleisio/art/Dolphin-Anatomy-Male-Reproductive-System-587002913)  
 [Personal concept art of a feral maned dragon](https://www.deviantart.com/caecuss/art/Tiena-Feral-876502282) There will be more accurate illustrations in future  
 [Old concept art](https://www.deviantart.com/caecuss/art/Creature-688641020)  
