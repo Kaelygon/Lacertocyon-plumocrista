@@ -23,13 +23,13 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
   
 **Temporal range:** [Pliocene](https://en.wikipedia.org/wiki/Pliocene) to present  
 ### [Scientific classification](https://en.wikipedia.org/wiki/Taxonomy_(biology))  
-| [Rank](https://en.wikipedia.org/wiki/Taxanomic_rank) | Clade                                                            |
+| [Rank](https://en.wikipedia.org/wiki/Taxonomic_rank) | [Clade](https://en.wikipedia.org/wiki/Clade)                     |
 | ---------------------------------------------------- | ---------------------------------------------------------------- |
 | Kingdom                                              | [Animalia](https://en.wikipedia.org/wiki/Animalia)               |
 | Phylum                                               | [Chordata](https://en.wikipedia.org/wiki/Chordata)               |
 | Class                                                | [Mammalia](https://en.wikipedia.org/wiki/Mammalia)               |
-| Order                                                | [Lacertheriformes](## "Crown group that diverged from Eutheria") |
-| Family                                               | [Lacertheridae](## "Family of *lizard beasts*")                  |
+| Order                                                | [Lacertheriformes](# "Crown group that diverged from Eutheria") |
+| Family                                               | [Lacertheridae](# "Family of lizard beasts")                    |
 | Genus                                                | Lacertocyon                                                      |
 | Species                                              | plumocrista                                                      |
   
@@ -53,7 +53,7 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
 - The teeth of maned dragon are similar those of canines or raccoons, adapted for an varied diet.  
 - Their whiskers are as wide as their body front profile. When traversing narrow pathways, these whiskers would indicate when the gap is too narrow to fit.  
 - They have five 3-segmented fingers and four 2-segmented toes, which are closer to reptilian hands than canine paws by appearance. While they are decent at swimming and capable of climbing, their legs and feet are specialized in tall foliage and grabbing onto prey.  
-- Their skull streamlined similar to reptiles, with [external nares](## "External nostrils on top of the snout") positioned like crocodiles. They lack a [rhinarium](https://en.wikipedia.org/wiki/rhinarium "External wet nose like dogs or cats"), but smell receptors are still in the nasal cavity. The nasal cavity is wet to help with sensing scents.  
+- Their skull streamlined similar to reptiles, with [external nares](# "External nostrils on top of the snout") positioned like crocodiles. They lack a [rhinarium](https://en.wikipedia.org/wiki/rhinarium "External wet nose like dogs or cats"), but smell receptors are still in the nasal cavity. The nasal cavity is wet to help with sensing scents.  
 - Maned dragons have long [digitigrade](https://en.wikipedia.org/wiki/Digitigrade "Stands on toes unlike plantigrades") legs to be able to see in tall foliage, making their gait akin to maned wolves.  
 - The similarities with other mammals are coincidental due to the same environmental pressures that other species faced.  
   
@@ -70,7 +70,7 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
   
 ## Reproductive organs  
 - The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
-- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](## "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
+- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](# "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
 - Both male's and female's sexual organs are internal and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats similar in arrangement to canines, which are hidden under the fur and only become prominent during lactation in nursing females.  
@@ -97,7 +97,7 @@ The maned dragon evolved a unique venom composition with effects similar to thes
 ## Evolution  
 **Lacertheriformes** diverged from Eutherians before carnivorans and convergently evolved alongside them, developing a unique set of traits.  
 ### Lineage 
-| Clade                                                  | Divergence ([mya](## "Million Years Ago")) |
+| Clade                                                  | Divergence ([mya](# "Million Years Ago")) |
 | ------------------------------------------------------ | ------------------------------------------ |
 | [Amniota](https://en.wikipedia.org/wiki/Amniote)       | 330                                        |
 | [Cynodontia](https://en.wikipedia.org/wiki/Cynodontia) | 259                                        |
