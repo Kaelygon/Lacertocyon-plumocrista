@@ -1,7 +1,13 @@
   
-### License    
-CC0 1.0 Universal Kaelygon 2024    
-This speculative species is released into the public domain. To avoid misattribution, you must change the original licensor name in the license if you release any variants. I am not responsible for any derived works.
+## License  
+### Species and concepts
+This speculative species, including the original concept, names, and any text format content, are released into the public domain under the license [CC0 1.0 Universal (Kaelygon 2024)](https://creativecommons.org/public-domain/cc0/)  
+
+To avoid misattribution, you must change the original licensor name in the license if you release any variants. I am not responsible for any derived works.  
+#### Illustrations
+The image files of the illustrations embedded in the 'README.md' and located in the 'images' folder are licensed under [CC BY-NC 4.0 (Kaelygon 2024)](https://creativecommons.org/licenses/by-nc/4.0/) unless explicitly stated otherwise.
+These images cannot be used for commercial purposes, and appropriate credit must be given. 
+You may either leave the images unmodified with the watermarked license or ensure that they are credited by other means.
 
 ---  
 # Lacertocyon plumocrista
