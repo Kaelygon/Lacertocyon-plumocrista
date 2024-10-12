@@ -36,7 +36,7 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
 ### Traits  
 - 100 cm tall at [withers](https://en.wikipedia.org/wiki/Withers "At shoulders"), weight 45 kg  
 - 60 km/h sprint speed, 30 km/h sustained run speed
-- Lifespan up to 25 years in wild and matures at 3-4 years 
+- Lifespan of 25 years and reach maturity at 3-4 years 
 - Warm-blooded  
 - [Placental Mammal ](https://en.wikipedia.org/wiki/Placentalia "Gives live birth and the fetus is developed in uterus") 
 - Predator  
@@ -72,20 +72,21 @@ Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active dur
 - While maned dragons may share overlapping territories, they are rarely aggressive against others unless food is scarce.   
 - Maned dragons communicate via howls and barks or roars like [maned wolves](https://en.wikipedia.org/wiki/Maned_wolf). If maned dragons are threatened, they can make hissing and growling sounds.  
   
-## Reproductive organs  
+## Mating and life cycle  
+- While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment raising offspring is significant.  
+- Maned dragons don't have a particular mating season, as this depends more on food abundance. They give birth to litter every 2 years or when the previous offspring have become independent.  
+- The female gives live birth and nurses a litter of 2 to 6 pups with a [gestation period](https://en.wikipedia.org/wiki/Gestation "Time between conception and birth") of 3-4 months. 
+- During this period, the male may share the territory and assist with raising the offspring by hunting and providing protection. They don't necessarily share the same living space until the late stage of the gestation period. 
+- Juveniles become independent at 1-2 years of age. Full sexual maturity is reached at the age of 3-4 years old.  
+- Maned dragons exhibit gradual [senescence](https://en.wikipedia.org/wiki/Senescence "Process of growing old"), showing few signs aging until they reach around 20 years of age. In wild they live on average of 25 years, but in more favorable environments, some individuals may live far longer. This long lifespan is a result of their high adaptability to various environments, which reduces the pressure to evolve over generations.  
+  
+### Reproductive system  
 - The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
 - Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](https://en.wikipedia.org/wiki/Urogenital_sinus "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
 - Both male's and female's sexual organs are internal and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats similar in arrangement to canines, which are hidden under the fur and only become prominent during lactation in nursing females.  
-- Outside the sexual organs, maned dragons have very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "No obvious differences between sexes").  
-  
-## Reproduction  
-- The female gives live birth and nurses a litter of 2 to 6 pups with a [gestation period](https://en.wikipedia.org/wiki/Gestation "Time between conception and birth") of 3-4 months. 
-- Maned dragons don't have a particular mating season, as this depends more on food abundance. They give birth to litter every 2 years or when the previous offspring have become independent.  
-- During this period, the male may share the territory and assist with raising the offspring by hunting and providing protection. They don't necessarily share the same living space until the late stage of the gestation period. 
-- While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment raising offspring is significant.  
-- Juveniles become independent at 1-2 years of age. Full sexual maturity is reached at the age of 3-4 years old.  
+- Outside the sexual organs, maned dragons have very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "differences between sexes").  
   
 ## Venom  
 - Maned dragon has venom glands in the lower jaw and some of their bottom teeth have grooves to help injecting the toxin into the target. 
@@ -161,11 +162,11 @@ Most of these concepts are derived from real life examples, using [Wikipedia](ht
 [Wiki Komodo dragon](https://en.wikipedia.org/wiki/Komodo_dragon)  
 [Wiki Maned wolf](https://en.wikipedia.org/wiki/Maned_wolf)  
 [Nationalzoo maned wolf](https://nationalzoo.si.edu/animals/maned-wolf)  
-[Canine Skull](https://www.physio-pedia.com/Anatomy_of_the_Canine_Spine)
+[Canine Skull](https://www.physio-pedia.com/Anatomy_of_the_Canine_Spine)  
 [Oxyaenids](https://nixillustration.com/tag/oxyaenidae/)
 ### Inspiration from artworks:  
 [Adleisio Cetacean reproductive anatomy](https://www.deviantart.com/adleisio/art/Dolphin-Anatomy-Male-Reproductive-System-587002913)  
-[Concept art of a feral maned dragon](https://www.deviantart.com/caecuss/art/Tiena-Feral-876502282) There will be more accurate illustrations in future  
+[Concept art of a feral maned dragon](https://www.deviantart.com/caecuss/art/Tiena-Feral-876502282) (There will be more accurate illustrations in future)  
 [Old concept art](https://www.deviantart.com/caecuss/art/Creature-688641020)  
 [Anthro illustration](https://www.deviantart.com/caecuss/art/TienaRef30Mar21-Shaded-874812976)  
 
