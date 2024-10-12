@@ -83,7 +83,7 @@ While maned dragons don't form packs, they form relations between individuals an
   
 ### Reproductive system  
 The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
-- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](https://en.wikipedia.org/wiki/Urogenital_sinus "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
+- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Anatomy "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [genital slit](https://baleinesendirect.org/en/discover/life-of-whales/physiology/reproductive-system/ "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
 - Both male's and female's sexual organs are internal, and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats similar in arrangement to canines, which are hidden under the fur and only become prominent during lactation in nursing females.  
