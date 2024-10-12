@@ -60,7 +60,7 @@ Maned dragon similarities to other modern species are largely coincidental due t
 - The [dental formula](https://en.wikipedia.org/wiki/Dentition#Dental_formula) of maned dragons (Upper: 3.1.4.3; Lower: 3.1.4.3) is similar to that of [Creodonta](https://en.wikipedia.org/wiki/Creodonta). Their incisors and prominent canines are similar to those of modern canids. The first two premolars have a shallow cusp, becoming steeper with the third premolar, while the fourth premolar functions similarly to a carnassial tooth. The molars are robust and capable of breaking up bones, with distinctive cusps except the last upper molar, which is rounder.
   
 ## Behavior  
-Maned dragons share hunting strategies with large cats and behavior with maned wolves.
+Maned dragons share hunting strategies with big cats and behavior with maned wolves.
 ### Diet
 - As solitary hunters, they can hunt animals up to 60 kg, but their preferred prey is 20-40 kg.  
 - Maned dragons rely on [ambush tactics](https://en.wikipedia.org/wiki/Ambush_predator) and endurance to outlast prey, as they are neither the fastest nor strongest predators.  
