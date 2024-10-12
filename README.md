@@ -23,15 +23,15 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
   
 **Temporal range:** [Pliocene](https://en.wikipedia.org/wiki/Pliocene) to present  
 ### [Scientific classification](https://en.wikipedia.org/wiki/Taxonomy_(biology))  
-| [Rank](https://en.wikipedia.org/wiki/Taxonomic_rank) | [Clade](https://en.wikipedia.org/wiki/Clade)                     |
-| ---------------------------------------------------- | ---------------------------------------------------------------- |
-| Kingdom                                              | [Animalia](https://en.wikipedia.org/wiki/Animalia)               |
-| Phylum                                               | [Chordata](https://en.wikipedia.org/wiki/Chordata)               |
-| Class                                                | [Mammalia](https://en.wikipedia.org/wiki/Mammalia)               |
+| [Rank](https://en.wikipedia.org/wiki/Taxonomic_rank) | [Clade](https://en.wikipedia.org/wiki/Clade)                    |
+| ---------------------------------------------------- | --------------------------------------------------------------- |
+| Kingdom                                              | [Animalia](https://en.wikipedia.org/wiki/Animalia)              |
+| Phylum                                               | [Chordata](https://en.wikipedia.org/wiki/Chordata)              |
+| Class                                                | [Mammalia](https://en.wikipedia.org/wiki/Mammalia)              |
 | Order                                                | [Lacertheriformes](# "Crown group that diverged from Eutheria") |
-| Family                                               | [Lacertheridae](# "Family of lizard beasts")                    |
-| Genus                                                | Lacertocyon                                                      |
-| Species                                              | plumocrista                                                      |
+| Family                                               | [Lacertheridae](# "Family of lizard beasts")                   |
+| Genus                                                | Lacertocyon                                                     |
+| Species                                              | plumocrista                                                     |
   
 ### Traits  
 - 100 cm tall at [withers](https://en.wikipedia.org/wiki/Withers "At shoulders"), weight 45 kg  
@@ -46,6 +46,7 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
 ---
   
 ## Appearance  
+Maned dragon's similarities to other modern species are largely coincidental due to the same environmental pressures that they faced.  
 ### Fur coat
 - Maned dragons are covered in thin fur, and they have a feathered mane that reaches from their head down to the tip of the tail. The mane consists of feather-like [keratinous](https://en.wikipedia.org/wiki/Keratin "Similar composition as the fur") strands, that evolved from fur.  
 - Their mane can puff up to appear bigger when threatened and acts as a protection and in heat regulation on cold nights.  
@@ -53,26 +54,27 @@ These resembling traits are a result of [convergent evolution](https://en.wikipe
 - Their whiskers are as wide as their body front profile. When traversing narrow pathways, these whiskers will indicate when a gap is too narrow to fit.  
 - Maned dragons have long ears to keep their body cool. The tufts at the ear tips help communicate with [conspecifics](# "Members of the same species") and feel what's above their head, similar to whiskers.
 ### Physiology
-- The teeth of maned dragon are similar those of canines or raccoons, adapted for an varied diet.  
+- Maned dragons have long [digitigrade](https://en.wikipedia.org/wiki/Digitigrade "Stands on toes unlike plantigrades") legs to be able to see in tall foliage, making their gait akin to maned wolves.  
 - They have five 3-segmented fingers and four 2-segmented toes, which are closer to reptilian hands than canine paws by appearance. While they are decent at swimming and capable of climbing, their legs and feet are specialized in tall foliage and grabbing onto prey.  
 - Their skull streamlined similar to reptiles, with [external nares](# "External nostrils on top of the snout") positioned like crocodiles. They lack a [rhinarium](https://en.wikipedia.org/wiki/rhinarium "External wet nose like dogs or cats"), but smell receptors are still in the nasal cavity. The nasal cavity is wet to help with sensing scents.  
-- Maned dragons have long [digitigrade](https://en.wikipedia.org/wiki/Digitigrade "Stands on toes unlike plantigrades") legs to be able to see in tall foliage, making their gait akin to maned wolves.  
-The similarities with other mammals are largely coincidental due to the same environmental pressures that other species faced.  
+- The [dental formula](https://en.wikipedia.org/wiki/Dentition#Dental_formula) of maned dragons (Upper: 3.1.4.3 / Lower: 3.1.4.3) is similar that of [Creodonta](https://en.wikipedia.org/wiki/Creodonta). Their Incisors and prominent canines are similar to those of modern canids. The first two premolars have shallow cusp, becoming steeper with the third premolar, while the fourth premolar functions similarly to a carnassial tooth. The molars are robust and capable of breaking up bones, with distinctive cusps except the last upper molar, which is rounder.
   
 ## Behavior  
-- Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active during daytime"). They have [trichromatic color vision](https://en.wikipedia.org/wiki/Trichromacy "Can distinguish red, green and blue colors"), which is more advantageous in foraging, but this comes at the cost of poorer night vision.  
-- Their habitat is [dry tropical forest](https://en.wikipedia.org/wiki/Tropical_and_subtropical_dry_broadleaf_forests) and [semiarid desert](https://en.wikipedia.org/wiki/Semi-arid_climate), and they are most active around temperatures of 10-25 C.  
-- While maned dragons may share overlapping territories, they are rarely aggressive against others unless food is scarce.  
+Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active during daytime"). They have [trichromatic color vision](https://en.wikipedia.org/wiki/Trichromacy "Can distinguish red, green and blue colors"), which is more advantageous in foraging, but this comes at the cost of poorer night vision.  
+### Diet
+- As solitary hunters they can hunt animals up to 60 kg, but their preferred prey is 20-40 kg.  
 - Maned dragons rely on [ambush tactics](https://en.wikipedia.org/wiki/Ambush_predator) and endurance to outlast prey, as they are neither the fastest nor strongest predators.  
-- As solitary hunters they can hunt animals up to 60 kg, but their preferred hunt is 20-40 kg.  
 - Maned dragons are omnivorous and often forage and eat various vegetable matter.  
 - When food is scarce, they can resort to scavenging. Their stomach acid is strong enough to partially digest bones.  
-- Any indigestible material, such as fur or large fragments, is regurgitated in compacted pellets.  
+- Any indigestible material, such as fur or large fragments, is regurgitated in compacted pellets. 
+### Habitat
+- Their habitat is [dry tropical forest](https://en.wikipedia.org/wiki/Tropical_and_subtropical_dry_broadleaf_forests) and [semiarid desert](https://en.wikipedia.org/wiki/Semi-arid_climate), and they are most active around temperatures of 10-25 C.  
+- While maned dragons may share overlapping territories, they are rarely aggressive against others unless food is scarce.   
 - Maned dragons communicate via howls and barks or roars like [maned wolves](https://en.wikipedia.org/wiki/Maned_wolf). If maned dragons are threatened, they can make hissing and growling sounds.  
   
 ## Reproductive organs  
 - The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
-- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](# "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
+- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](https://en.wikipedia.org/wiki/Urogenital_sinus "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
 - Both male's and female's sexual organs are internal and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats similar in arrangement to canines, which are hidden under the fur and only become prominent during lactation in nursing females.  
@@ -81,7 +83,8 @@ The similarities with other mammals are largely coincidental due to the same env
 ## Reproduction  
 - The female gives live birth and nurses a litter of 2 to 6 pups with a [gestation period](https://en.wikipedia.org/wiki/Gestation "Time between conception and birth") of 3-4 months. 
 - Maned dragons don't have a particular mating season, as this depends more on food abundance. They give birth to litter every 2 years or when the previous offspring have become independent.  
-- During this period, the male may share the territory and assist with raising the offspring by hunting and providing protection. They don't necessarily share the same living space until the late stage of the gestation period. Though solitary, maned dragons form some relations between individuals and are often monogamous.  
+- During this period, the male may share the territory and assist with raising the offspring by hunting and providing protection. They don't necessarily share the same living space until the late stage of the gestation period. 
+- While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment raising offspring is significant.  
 - Juveniles become independent at 1-2 years of age. Full sexual maturity is reached at the age of 3-4 years old.  
   
 ## Venom  
@@ -99,7 +102,7 @@ The maned dragon evolved a unique venom composition with effects similar to thes
 ## Evolution  
 **Lacertheriformes** diverged from Eutherians before carnivorans and convergently evolved alongside them, developing a unique set of traits.  
 ### Lineage 
-| Clade                                                  | Divergence ([mya](# "Million Years Ago")) |
+| Clade                                                  | Divergence ([mya](https://simple.wikipedia.org/wiki/Mya_(unit) "Million Years Ago")) |
 | ------------------------------------------------------ | ----------------------------------------- |
 | [Amniota](https://en.wikipedia.org/wiki/Amniote)       | 330                                       |
 | [Cynodontia](https://en.wikipedia.org/wiki/Cynodontia) | 259                                       |
@@ -158,10 +161,11 @@ Most of these concepts are derived from real life examples, using [Wikipedia](ht
 [Wiki Komodo dragon](https://en.wikipedia.org/wiki/Komodo_dragon)  
 [Wiki Maned wolf](https://en.wikipedia.org/wiki/Maned_wolf)  
 [Nationalzoo maned wolf](https://nationalzoo.si.edu/animals/maned-wolf)  
-
-Inspiration from personal and others' artworks:  
+[Canine Skull](https://www.physio-pedia.com/Anatomy_of_the_Canine_Spine)
+[Oxyaenids](https://nixillustration.com/tag/oxyaenidae/)
+### Inspiration from artworks:  
 [Adleisio Cetacean reproductive anatomy](https://www.deviantart.com/adleisio/art/Dolphin-Anatomy-Male-Reproductive-System-587002913)  
-[Personal concept art of a feral maned dragon](https://www.deviantart.com/caecuss/art/Tiena-Feral-876502282) There will be more accurate illustrations in future  
+[Concept art of a feral maned dragon](https://www.deviantart.com/caecuss/art/Tiena-Feral-876502282) There will be more accurate illustrations in future  
 [Old concept art](https://www.deviantart.com/caecuss/art/Creature-688641020)  
 [Anthro illustration](https://www.deviantart.com/caecuss/art/TienaRef30Mar21-Shaded-874812976)  
 
