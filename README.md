@@ -50,7 +50,7 @@ Maned dragon similarities to other modern species are largely coincidental due t
 ### Fur coat
 - Maned dragons are covered in thin fur, and they have a feathered mane that reaches from their head down to the tip of the tail. The mane consists of feather-like [keratinous](https://en.wikipedia.org/wiki/Keratin "Similar composition as the fur") strands that evolved from fur.  
 - Their mane can puff up to appear bigger when threatened and acts as protection and in heat regulation on cold nights.  
-- Their color is a mix of yellows, browns, and greens with lighter [countershading](https://en.wikipedia.org/wiki/Countershading "Lighter underside blends in with shadows for improved camoflauge"). The colorization varies regionally, mostly due to selective breeding and migrating individuals finding success in certain foliage. Seasonal changes can also have an impact on the coat's thickness and color.  
+- Their fur color is a mix of yellows, browns, and greens with lighter [countershading](https://en.wikipedia.org/wiki/Countershading "Lighter underside blends in with shadows for improved camoflauge"). The colorization varies regionally, mostly due to selective breeding and migrating individuals finding success in certain foliage. Seasonal changes can also have an impact on the coat's thickness and color.  
 - Their whiskers are as wide as their body front profile. When traversing narrow pathways, these whiskers will indicate when a gap is too narrow to fit.  
 - Maned dragons have long ears to keep their bodies cool. The tufts at the ear tips help communicate with [conspecifics](# "Members of the same species") and feel what's above their head, similar to whiskers.
 ### Physiology
@@ -60,11 +60,12 @@ Maned dragon similarities to other modern species are largely coincidental due t
 - The [dental formula](https://en.wikipedia.org/wiki/Dentition#Dental_formula) of maned dragons (Upper: 3.1.4.3; Lower: 3.1.4.3) is similar to that of [Creodonta](https://en.wikipedia.org/wiki/Creodonta). Their incisors and prominent canines are similar to those of modern canids. The first two premolars have a shallow cusp, becoming steeper with the third premolar, while the fourth premolar functions similarly to a carnassial tooth. The molars are robust and capable of breaking up bones, with distinctive cusps except the last upper molar, which is rounder.
   
 ## Behavior  
-Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active during daytime"). They have [trichromatic color vision](https://en.wikipedia.org/wiki/Trichromacy "Can distinguish red, green and blue colors"), which is more advantageous in foraging, but this comes at the cost of poorer night vision.  
+Maned dragons share hunting strategies with large cats and behavior with maned wolves.
 ### Diet
 - As solitary hunters, they can hunt animals up to 60 kg, but their preferred prey is 20-40 kg.  
 - Maned dragons rely on [ambush tactics](https://en.wikipedia.org/wiki/Ambush_predator) and endurance to outlast prey, as they are neither the fastest nor strongest predators.  
 - Maned dragons are omnivorous and often forage and eat various vegetable matter.  
+- Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active during daytime"). They have [trichromatic color vision](https://en.wikipedia.org/wiki/Trichromacy "Can distinguish red, green and blue colors"), which is more advantageous in foraging, but this comes at the cost of poorer night vision.  
 - When food is scarce, they can resort to scavenging. Their stomach acid is strong enough to partially digest bones.  
 - Any indigestible material, such as fur or large fragments, is regurgitated in compacted pellets. 
 ### Habitat
@@ -73,15 +74,15 @@ Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active dur
 - Maned dragons communicate via howls and barks or roars like [maned wolves](https://en.wikipedia.org/wiki/Maned_wolf). If maned dragons are threatened, they can make hissing and growling sounds.  
   
 ## Mating and life cycle  
-- While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment raising offspring is significant.  
+While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment raising offspring is significant.  
 - Maned dragons don't have a particular mating season, as this depends more on food abundance. They give birth to litter every 2 years or when the previous offspring have become independent.  
 - The female gives live birth and nurses a litter of 2 to 6 pups with a [gestation period](https://en.wikipedia.org/wiki/Gestation "Time between conception and birth") of 3-4 months. 
 - During this period, the male may share the territory and assist with raising the offspring by hunting and providing protection. They don't necessarily share the same living space until the late stage of the gestation period. 
 - Juveniles become independent at 1-2 years of age. Full sexual maturity is reached at the age of 3-4 years old.  
-- Maned dragons exhibit gradual [senescence](https://en.wikipedia.org/wiki/Senescence "Process of growing old"), showing few signs of aging until they reach around 20 years of age. In the wild, they live on average 25 years, but in more favorable environments, some individuals may live far longer. This long lifespan is a result of their high adaptability to various environments, which reduces the pressure to evolve over generations.  
+- Maned dragons exhibit gradual [senescence](https://en.wikipedia.org/wiki/Senescence "Process of growing old"), showing few signs of aging until they reach around 20 years of age. In the wild, they live on average 25 years, but in more favorable environments, some individuals may live far longer. This long lifespan is a result of their high adaptability to various environments, which reduces evolutionary pressure over generations.  
   
 ### Reproductive system  
-- The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
+The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
 - Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Reproduction_and_sexuality "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [urogenital slit](https://en.wikipedia.org/wiki/Urogenital_sinus "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
 - Both male's and female's sexual organs are internal, and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
@@ -89,11 +90,11 @@ Maned dragons are [diurnal](https://en.wikipedia.org/wiki/Diurnality "Active dur
 - Outside the sexual organs, maned dragons have very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "differences between sexes").  
   
 ## Venom  
-- Maned dragons have venom glands in their lower jaw, and some of their bottom teeth have grooves to help inject the toxin into the target. 
+Maned dragons have venom glands in their lower jaw, and some of their bottom teeth have grooves to help inject the toxin into the target. 
 - Their venom is especially useful when the prey is too large to be quickly subdued by teeth and claws alone. In such cases, maned dragons may continue stalking the target until the venom takes full effect.  
 - The venom may also be used in defense, as it induces intense pain to repel any attackers.  
   
-The maned dragon evolved a unique venom composition with effects similar to these components. The actual composition is currently unknown.  
+The maned dragon evolved a unique venom composition with effects similar to these components. The exact composition is currently unknown.  
 - Pain activation: [Bradykinin](https://en.wikipedia.org/wiki/Bradykinin), [Capsaicin](https://en.wikipedia.org/wiki/Capsaicin "Active component in chili peppers")  
 - Muscle paralysis: [Dendrotoxin](https://en.wikipedia.org/wiki/Dendrotoxin), [Fasciculin](https://en.wikipedia.org/wiki/Fasciculin), [Conotoxin](https://en.wikipedia.org/wiki/Conotoxin)  
 - Spreading factors: [Phospholipase](https://en.wikipedia.org/wiki/Phospholipase), [Metalloprotein](https://en.wikipedia.org/wiki/Metalloprotein)  
