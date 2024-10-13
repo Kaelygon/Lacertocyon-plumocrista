@@ -74,8 +74,8 @@ Maned dragons share hunting strategies with big cats and behavior with maned wol
 - Maned dragons communicate via howls and barks or roars like [maned wolves](https://en.wikipedia.org/wiki/Maned_wolf). If maned dragons are threatened, they can make hissing and growling sounds.  
   
 ## Mating and life cycle  
-While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment raising offspring is significant.  
-- Maned dragons don't have a particular mating season, as this depends more on food abundance. They give birth to litter every 2 years or when the previous offspring have become independent.  
+While maned dragons don't form packs, they form relations between individuals and are often monogamous as the investment in raising offspring is significant.  
+- Maned dragons don't have a particular mating season, as this depends more on food abundance. They give birth to a litter every 2 years or when the previous offspring have become independent.  
 - The female gives live birth and nurses a litter of 2 to 6 pups with a [gestation period](https://en.wikipedia.org/wiki/Gestation "Time between conception and birth") of 3-4 months. 
 - During this period, the male may share the territory and assist with raising the offspring by hunting and providing protection. They don't necessarily share the same living space until the late stage of the gestation period. 
 - Juveniles become independent at 1-2 years of age. Full sexual maturity is reached at the age of 3-4 years old.  
@@ -84,7 +84,7 @@ While maned dragons don't form packs, they form relations between individuals an
 ### Reproductive system  
 The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
 - Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Dolphin#Anatomy "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the anus is positioned outside the [genital slit](https://baleinesendirect.org/en/discover/life-of-whales/physiology/reproductive-system/ "Contains only reproductive organs and urethral orifice"), near the root of the tail.  
-- Both male's and female's sexual organs are internal, and the underside is normally featureless.  
+- Both male and female sexual organs are internal, and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats similar in arrangement to canines, which are hidden under the fur and only become prominent during lactation in nursing females.  
 - Outside the sexual organs, maned dragons have very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "differences between sexes").  
@@ -119,7 +119,7 @@ The maned dragon evolved a unique venom composition with effects similar to thes
 - Early Lacertheriformes diverged during the late Cretaceous period from the Eutheria clade.  
 - Palutherium was a small semi-aquatic otter- or shrew-like species that had a mixed diet, consisting of insects and fruits.  
 - Its venom development started early from modified salivary glands. Making them poisonous if eaten by a predator.  
-- Like many small mammals, the early ancestors of Lacertocyon were nocturnal to avoid competition with dinosaurs.  years of age. Full sexual maturity is reached at the age of 3-4 years old.  
+- Like many small mammals, the early ancestors of Lacertocyon were nocturnal to avoid competition with dinosaurs.  
 ### [K-Pg extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event) 66 mya  
 - Due to the extinction event, the species couldn't have been more than 25 kg, likely much smaller.  
 - Being semi-aquatic provided more shelter, and an omnivorous diet was beneficial, as many plant and marine life died.  
