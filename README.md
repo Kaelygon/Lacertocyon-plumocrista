@@ -9,6 +9,11 @@ The image files of the illustrations embedded in the 'README.md' and located in 
 These images cannot be used for commercial purposes, and appropriate credit must be given. 
 You may either leave the images unmodified with the watermarked license or ensure that they are credited by other means.
 
+## [Glossary](https://github.com/Kaelygon/Lacertocyon-plumocrista/blob/main/Glossary.md)
+This text is dense in biological terminology.  
+In case you encounter unfamiliar words in the text, most of them have [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink "Links can also have hover texts") or [hover text](# "Unfortunately, GitHub hover texts are visually identical to hyperlinks").  
+Additionally, I have created a separate glossary file that you can refer to as you read.  
+
 ---
 # Lacertocyon plumocrista
   
@@ -18,7 +23,8 @@ You may either leave the images unmodified with the watermarked license or ensur
   
 **Lacertocyon plumocrista** (*feather crested lizard dog*), also known as *feather maned dragon* or simply *maned dragon*, is a distinctive member of the Lacertheridae family that has unique [morphology](https://en.wikipedia.org/wiki/Morphology_(biology) "Form and structure") and exhibits traits similar to modern canidae and felidae.  
 Although the name suggests similarities to reptiles and canines, many of these traits are a result of [convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution).  
-The [crown group](https://en.wikipedia.org/wiki/Crown_group) Lacertheriformes diverged from [Eutherians](https://en.wikipedia.org/wiki/Eutheria "Early placental mammals") and evolved parallel with modern [mammalia](https://en.wikipedia.org/wiki/Mammal) and [carnivora](https://en.wikipedia.org/wiki/Carnivora).  
+The order **Lacertheriformes** diverged from [Eutherians](https://en.wikipedia.org/wiki/Eutheria "Early placental mammals") and evolved parallel with modern [mammalia](https://en.wikipedia.org/wiki/Mammal), including [carnivora](https://en.wikipedia.org/wiki/Carnivora).  
+**Lacertherimorpha** is a clade that includes Lacertheriformes and their closest relatives, forming a [monophyletic](https://en.wikipedia.org/wiki/Monophyly) group similar to Carnivoramorpha.
   
 **Temporal range:** [Pliocene](https://en.wikipedia.org/wiki/Pliocene) to present  
 ### [Scientific classification](https://en.wikipedia.org/wiki/Taxonomy_(biology))  
@@ -49,7 +55,7 @@ Maned dragon similarities to other species are largely coincidental due to the s
 ### Fur coat
 - Maned dragons are covered in thin fur, and they have a feathered mane that reaches from their head down to the tip of the tail. The feather-like [keratinous](https://en.wikipedia.org/wiki/Keratin "Similar composition as the fur") strands in the mane evolved from fur to act as protection and showcase. 
 - The mane can puff up to appear bigger under a threat, and it helps with protection and in heat regulation on cold nights.  
-- Their fur color is a mix of yellows, browns, and greens with lighter [countershading](https://en.wikipedia.org/wiki/Countershading "Lighter underside blends in with shadows for improved camoflauge"). The colorization varies regionally, mostly due to selective breeding and migrating individuals finding success in certain foliage. Seasonal changes can also affect the coat's thickness and color.  
+- Their fur color is a mix of yellows, browns, and greens with lighter [countershading](https://en.wikipedia.org/wiki/Countershading "Lighter underside blends in with shadows for improved camouflage"). The colorization varies regionally, mostly due to selective breeding and migrating individuals finding success in certain foliage. Seasonal changes can also affect the coat's thickness and color.  
 - Their whiskers are as wide as the front profile of their body. When traversing narrow pathways, these whiskers will indicate when a gap is too narrow to fit.  
 - Maned dragons have long ears to keep their bodies cool. The tufts at the ear tips help communicate with [conspecifics](# "Members of the same species") and feel what's above their head, similar to whiskers.
 ### Physiology
@@ -87,11 +93,11 @@ While maned dragons don't form packs, they form bonds between individuals. They 
   
 ### Reproductive system  
 The genitals of maned dragons are similar to those of some aquatic mammals, such as [cetaceans](https://en.wikipedia.org/wiki/cetaceans "Dolphins, whales, etc."), with a few differences.  
-- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Bottlenose_dolphin#Reproduction "Contains mammary glands, urethral orifice, anus and reprodctive organs in female cetaceans"), the maned dragon's anus is outside their [genital slit](https://baleinesendirect.org/en/discover/life-of-whales/physiology/reproductive-system/ "Contains only reproductive organs and urethral orifice"), positioned near the root of the tail.
+- Unlike female cetaceans, which have a [mammary slit](https://en.wikipedia.org/wiki/Bottlenose_dolphin#Reproduction "Contains mammary glands, urethral orifice, anus and reproductive organs in female cetaceans"), the maned dragon's anus is outside their [genital slit](https://baleinesendirect.org/en/discover/life-of-whales/physiology/reproductive-system/ "Contains only reproductive organs and urethral orifice"), positioned near the root of the tail.
 - Both male and female sexual organs are internal, and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats hidden under the fur, arranged similar to canines. The mammary glands in nursing females become prominent only during lactation. 
-- Outside the sexual organs, maned dragons have very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "differences between sexes").  
+- Outside the sexual organs, maned dragons have very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "Differences between sexes").  
   
 ## Venom  
 Maned dragons have venom glands in their lower jaw, and some of their bottom teeth have grooves to help inject the toxin into the target. 
@@ -106,7 +112,7 @@ The maned dragon evolved a unique venom composition with effects similar to thes
 ---
   
 ## Evolution  
-**Lacertheriformes** diverged from Eutherians before carnivorans and convergently evolved alongside them, developing a unique set of traits.  
+**Lacertheriformes** diverged from Eutherians before the emergence of Carnivora and convergently evolved alongside them, developing a unique set of traits.  
 ### Lineage 
 | Clade                                                  | Divergence ([mya](https://simple.wikipedia.org/wiki/Mya_(unit) "Million Years Ago")) |
 | ------------------------------------------------------ | ----------------------------------------- |
@@ -120,7 +126,7 @@ The maned dragon evolved a unique venom composition with effects similar to thes
   
 ### [Late Cretaceous](https://en.wikipedia.org/wiki/Cretaceous) 100-66 mya  
 **Genus: Palutherium (Marsh beast)**  
-- Early Lacertheriformes diverged during the late Cretaceous period from the Eutheria clade.  
+- **Early Lacertheriformes** split from the Eutheria clade during the late Cretaceous.  
 - Palutherium was a small semi-aquatic otter- or shrew-like species that had a mixed diet, consisting of insects and fruits.  
 - Their venom developed from modified salivary glands, making them poisonous if eaten by a predator.  
 - Like many small mammals, the early predecessors of Lacertocyon were nocturnal to avoid competition with dinosaurs.  
