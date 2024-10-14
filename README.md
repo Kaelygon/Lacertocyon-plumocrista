@@ -96,7 +96,7 @@ The genitals of maned dragons are similar to those of some aquatic mammals, such
 ## Venom  
 Maned dragons have venom glands in their lower jaw, and some of their bottom teeth have grooves to help inject the toxin into the target. 
 - Their venom is especially useful when the prey is so large that it can't be subdued by teeth and claws alone. In such cases, maned dragons may continue stalking the target until the venom takes full effect.
-- As defense mechanisms, maned dragons can use their venom to inflict pain and discourages any attackers.
+- As defense mechanisms, maned dragons can use their venom to inflict pain and discourage any attackers.
   
 The maned dragon evolved a unique venom composition with effects similar to these components. The exact composition is currently unknown.  
 - Pain activation: [Bradykinin](https://en.wikipedia.org/wiki/Bradykinin), [Capsaicin](https://en.wikipedia.org/wiki/Capsaicin "Active component in chili peppers")  
