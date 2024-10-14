@@ -16,7 +16,7 @@ You may either leave the images unmodified with the watermarked license or ensur
   
 ## Summary
   
-**Lacertocyon plumocrista** (*feather crested lizard dog*), also known as *feather maned dragon* or simply *maned dragon*, is a distinctive member of the Lacertheridae family that has unique morphology and exhibits traits similar to modern canidae and felidae.  
+**Lacertocyon plumocrista** (*feather crested lizard dog*), also known as *feather maned dragon* or simply *maned dragon*, is a distinctive member of the Lacertheridae family that has unique [morphology](https://en.wikipedia.org/wiki/Morphology_(biology) "Form and structure") and exhibits traits similar to modern canidae and felidae.  
 Although the name suggests similarities to reptiles and canines, many of these traits are a result of [convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution).  
 The [crown group](https://en.wikipedia.org/wiki/Crown_group) Lacertheriformes diverged from [Eutherians](https://en.wikipedia.org/wiki/Eutheria "Early placental mammals") and evolved parallel with modern [mammalia](https://en.wikipedia.org/wiki/Mammal) and [carnivora](https://en.wikipedia.org/wiki/Carnivora).  
   
