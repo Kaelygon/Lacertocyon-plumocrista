@@ -175,7 +175,7 @@ These features have either proven beneficial or haven't posed significant hindra
   
 ---
 ## Sources of inspiration
-T concepts are derived primarily from real-life examples, using [Wikipedia](https://en.wikipedia.org/) as the main source.  
+The concepts are derived primarily from real-life examples, using [Wikipedia](https://en.wikipedia.org/) as the main source.  
 - [Wiki komodo dragon](https://en.wikipedia.org/wiki/Komodo_dragon)  
 - [Wiki maned wolf](https://en.wikipedia.org/wiki/Maned_wolf)  
 - [Nationalzoo maned wolf](https://nationalzoo.si.edu/animals/maned-wolf)  
