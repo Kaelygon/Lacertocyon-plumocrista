@@ -38,7 +38,7 @@
 - **[Countershading](https://en.wikipedia.org/wiki/Countershading)**: A lighter underside blends in with shadows for improved camouflage.
 - **[Conspecifics](https://en.wikipedia.org/wiki/Biological_specificity#Conspecific)**: Individuals of the same species.
 ###
-- **[Digitigrade](https://en.wikipedia.org/wiki/Digitigrade)**: Stands on toes, unlike plantigrades.
+- **[Digitigrade](https://en.wikipedia.org/wiki/Digitigrade)**: Animal that walks on its toes without heel touching the ground. E.g. dog, cats and rodents.
 - **[External nares](https://en.wikipedia.org/wiki/Nostril)**: Nostrils on top of the snout.
 - **[Rhinarium](https://en.wikipedia.org/wiki/Rhinarium)**: External wet nose like dogs or cats.
 ###
@@ -93,3 +93,9 @@
 | **[Cretaceous](https://en.wikipedia.org/wiki/Cretaceous)** | 145 to 66    |
 
 [Simple English Wikipedia](https://simple.wikipedia.org/) is very helpful, providing descriptions that are easy to understand. 
+
+
+### Species and concepts
+This speculative species, including the original concept, names, and any text format content, is released into the public domain under the license [CC0 1.0 Universal (Kaelygon 2024)](https://creativecommons.org/public-domain/cc0/).  
+
+To avoid misattribution in subsequent releases, you must either change or remove the original name in the material licensed under CC0. I am not responsible for any derived works.  
