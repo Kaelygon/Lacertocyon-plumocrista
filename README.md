@@ -1,12 +1,45 @@
   
+ Table of Contents
+=================
+<!--ts-->
+
+   * [Multi-license](#multi-license)
+      * [Species and concepts](#species-and-concepts)
+      * [Illustrations](#illustrations)
+   * [Glossary](#glossary)
+* [Lacertocyon plumocrista](#lacertocyon-plumocrista)
+   * [Summary](#summary)
+      * [Etymology](#etymology)
+      * [Scientific classification](#scientific-classification)
+      * [Traits](#traits)
+   * [Appearance](#appearance)
+      * [Fur coat](#fur-coat)
+      * [Physiology](#physiology)
+         * [Dentition](#dentition)
+   * [Behavior](#behavior)
+      * [Diet](#diet)
+      * [Habitat](#habitat)
+   * [Mating and life cycle](#mating-and-life-cycle)
+      * [Reproductive system](#reproductive-system)
+   * [Venom](#venom)
+   * [Evolution](#evolution)
+      * [Lineage](#lineage)
+      * [List of remnant features](#list-of-remnant-features)
+   * [Sources of inspiration](#sources-of-inspiration)
+      * [Inspiration from artworks:](#inspiration-from-artworks)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+<!-- Added by: campus, at: Wed Oct 16 08:29:47 EEST 2024 -->
+
+<!--te-->
 ## Multi-license  
 ### Species and concepts
 This speculative species, including the original concept, names, and any text format content, is released into the public domain under the license [CC0 1.0 Universal (Kaelygon 2024)](https://creativecommons.org/public-domain/cc0/).  
 
 To avoid misattribution in subsequent releases, you must either change or remove the original name in the material licensed under CC0. I am not responsible for any derived works.  
 ### Illustrations
-The image files of the illustrations embedded in the 'README.md' and located in the 'images' folder are licensed under [CC BY-NC 4.0 (Kaelygon 2024)](https://creativecommons.org/licenses/by-nc/4.0/) unless explicitly stated otherwise.
-These images cannot be used for commercial purposes, and appropriate credit must be given. 
+The image files of the illustrations embedded in the 'README.md' and located in the 'images' folder are licensed under [CC BY-NC 4.0 (Kaelygon 2024)](https://creativecommons.org/licenses/by-nc/4.0/) unless explicitly stated otherwise.  
+These images cannot be used for commercial purposes, and appropriate credit must be given.  
 You may either leave the images unmodified with the watermarked license or ensure that they are credited by other means.
 
 ## [Glossary](https://github.com/Kaelygon/Lacertocyon-plumocrista/blob/main/Glossary.md)
@@ -23,12 +56,14 @@ Additionally, I have created a separate glossary file that you can refer to as y
   
 **Lacertocyon plumocrista**, also known as ***feather maned dragon*** or simply ***maned dragon***, is a distinctive member of the Lacertheridae family that has unique [morphology](https://en.wikipedia.org/wiki/Morphology_(biology) "Form and structure") and exhibits traits similar to modern [canidae](https://en.wikipedia.org/wiki/Canidae) and [felidae](https://en.wikipedia.org/wiki/Felidae).  
 
+### Etymology
 The Latin genus name *Lacertocyon* literal translation is *lizard dog*, while the species *plumocrista* means *feather crest*. This results in the literal name ***feather crested lizard dog***.
 
 Although the name suggests similarities to reptiles and canines, many of these traits are a result of [convergent evolution](https://en.wikipedia.org/wiki/Convergent_evolution).  
 The order **Lacertheriformes** diverged from [Eutherians](https://en.wikipedia.org/wiki/Eutheria "Early placental mammals") and evolved parallel with modern [mammalia](https://en.wikipedia.org/wiki/Mammal), including [carnivora](https://en.wikipedia.org/wiki/Carnivora).  
-**Lacertherimorpha** is a clade that includes Lacertheriformes and their closest relatives, forming a [monophyletic](https://en.wikipedia.org/wiki/Monophyly) group similar to *Carnivoramorpha*.
-  
+**Lacertherimorpha** is a clade that includes Lacertheriformes and their closest relatives, forming a [monophyletic](https://en.wikipedia.org/wiki/Monophyly) group similar to *Carnivoramorpha*.  
+
+---
 **Temporal range:** [Pliocene](https://en.wikipedia.org/wiki/Pliocene) to present  
 ### [Scientific classification](https://en.wikipedia.org/wiki/Taxonomy_(biology))  
 | [Rank](https://en.wikipedia.org/wiki/Taxonomic_rank) | [Clade](https://en.wikipedia.org/wiki/Clade)                    |
@@ -57,12 +92,12 @@ The order **Lacertheriformes** diverged from [Eutherians](https://en.wikipedia.o
 Maned dragon similarities to other species are largely coincidental due to the same environmental pressures that they faced.  
 ### Fur coat
 - Maned dragons are **covered in thin fur**, and they have a **feathered mane** that reaches from their head down to the tip of the tail. The feather-like [keratinous](https://en.wikipedia.org/wiki/Keratin "Similar composition as the fur") strands in the mane evolved from fur to act as protection and showcase. 
-- The **mane can puff up** to appear bigger under a threat, and it helps with protection and in heat regulation on cold nights.  
+- The **mane can puff up** to appear bigger under a threat, and it helps with protection and heat regulation on cold nights.  
 - Their **fur color** is a mix of yellows, browns, and greens with lighter [countershading](https://en.wikipedia.org/wiki/Countershading "Lighter underside blends in with shadows for improved camouflage"). The colorization varies regionally, mostly due to selective breeding and migrating individuals finding success in certain foliage. Seasonal changes can also affect the coat's thickness and color.  
 - Their **whiskers** are as wide as the front profile of their body. When traversing narrow pathways, these whiskers will indicate when a gap is too narrow to fit.  
 - Maned dragons have **long ears** to keep their bodies cool. The tufts at the ear tips help communicate with [conspecifics](# "Members of the same species") and feel what's above their head, similar to whiskers.
 ### Physiology
-- Maned dragons have **long [digitigrade](https://en.wikipedia.org/wiki/Digitigrade "Stands on toes unlike plantigrades") legs**, which enable them to see in tall foliage, making their **gait** akin to maned wolves.
+- Maned dragons have **long [digitigrade](https://en.wikipedia.org/wiki/Digitigrade "Canines have legs like this, humans are plantigrade") legs**, which enable them to see in tall foliage, making their **gait** akin to maned wolves.
 - They have **five 3-segmented fingers** and **four 2-segmented toes**, which are closer to reptilian hands than canine paws by appearance. Their **dexterous hands** allow them to grab onto the prey and make climbing easier.  
 - Their **skull is streamlined**, similar to reptiles, with [**external nares**](# "External nostrils on top of the snout") positioned like crocodiles. They lack a [rhinarium](https://en.wikipedia.org/wiki/rhinarium "External wet nose like dogs or cats"), but smell receptors are still in the nasal cavity. The nasal cavity is wet to help with sensing scents.  
 #### Dentition
@@ -101,7 +136,7 @@ The genitals of maned dragons are similar to those of some aquatic mammals, such
 - Both male and female sexual organs are internal, and the underside is normally featureless.  
 - In males, the penis and testes are internal, with the penis extending during mating.  
 - They have six teats hidden under the fur, arranged similar to canines. The mammary glands in nursing females become prominent only during lactation. 
-- Outside the sexual organs, maned dragons have **very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "Differences between sexes")**.  
+- Outside the reproductive organs, maned dragons have **very little [sexual dimorphism](https://en.wikipedia.org/wiki/Sexual_dimorphism "Differences between sexes")**.  
   
 ## Venom  
 Maned dragons have **venom glands** in their lower jaw, and some of their bottom teeth have grooves to help inject the toxin into the target. 
@@ -158,7 +193,6 @@ The maned dragon evolved a **unique venom composition** with effects similar to 
 ### [Pliocene](https://en.wikipedia.org/wiki/Pliocene) 5.3 mya to present  
 - Modern maned dragons emerged from the Lacertheridae lineage.  
   
----
   
 ### List of remnant features
 Lacertherids inherit many ancestral traits from their semi-aquatic lineage.   
