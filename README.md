@@ -1,13 +1,14 @@
   
- Table of Contents
-=================
+## Table of Contents
 <!--ts-->
 
+* Introduction
    * [Multi-license](#multi-license)
       * [Species and concepts](#species-and-concepts)
       * [Illustrations](#illustrations)
    * [Glossary](#glossary)
-* [Lacertocyon plumocrista](#lacertocyon-plumocrista)
+###
+* **[Lacertocyon plumocrista](#lacertocyon-plumocrista)**
    * [Summary](#summary)
       * [Etymology](#etymology)
       * [Scientific classification](#scientific-classification)
@@ -50,7 +51,7 @@ Additionally, I have created a separate glossary file that you can refer to as y
 ---
 # Lacertocyon plumocrista
   
----
+  
   
 ## Summary
   
@@ -63,7 +64,7 @@ Although the name suggests similarities to reptiles and canines, many of these t
 The order **Lacertheriformes** diverged from [Eutherians](https://en.wikipedia.org/wiki/Eutheria "Early placental mammals") and evolved parallel with modern [mammalia](https://en.wikipedia.org/wiki/Mammal), including [carnivora](https://en.wikipedia.org/wiki/Carnivora).  
 **Lacertherimorpha** is a clade that includes Lacertheriformes and their closest relatives, forming a [monophyletic](https://en.wikipedia.org/wiki/Monophyly) group similar to *Carnivoramorpha*.  
 
----
+  
 **Temporal range:** [Pliocene](https://en.wikipedia.org/wiki/Pliocene) to present  
 ### [Scientific classification](https://en.wikipedia.org/wiki/Taxonomy_(biology))  
 | [Rank](https://en.wikipedia.org/wiki/Taxonomic_rank) | [Clade](https://en.wikipedia.org/wiki/Clade)                    |
