@@ -27,7 +27,6 @@
       * [Lineage](#lineage)
       * [List of remnant features](#list-of-remnant-features)
    * [Sources of inspiration](#sources-of-inspiration)
-      * [Inspiration from artworks:](#inspiration-from-artworks)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: campus, at: Wed Oct 16 08:29:47 EEST 2024 -->
@@ -216,7 +215,7 @@ The concepts are derived primarily from real-life examples, using [Wikipedia](ht
 - [Nationalzoo maned wolf](https://nationalzoo.si.edu/animals/maned-wolf)  
 - [Canine Skull](https://www.physio-pedia.com/Anatomy_of_the_Canine_Spine)  
 - [Oxyaenids](https://nixillustration.com/tag/oxyaenidae/)
-### Inspiration from artworks:  
+### Inspiration from artworks  
 - [Adleisio cetacean reproductive anatomy](https://www.deviantart.com/adleisio/art/Dolphin-Anatomy-Male-Reproductive-System-587002913)  
 - [Early concept art of "lizard dog"](https://www.deviantart.com/caecuss/art/Creature-688641020)  
 - [Concept art of fantastical maned dragon](https://www.deviantart.com/caecuss/art/Tiena-Feral-876502282) (There will be more accurate illustrations in the future) 
