@@ -48,8 +48,9 @@ In case you encounter unfamiliar words in the text, most of them have [hyperlink
 Additionally, I have created a separate glossary file that you can refer to as you read.  
 
 ---
-# Lacertocyon plumocrista
+<img src="https://raw.githubusercontent.com/Kaelygon/Lacertocyon-plumocrista/refs/heads/main/images/LPlumocrista-Aaneu-CC-BY-NC-4.0-Kaelygon.png" alt="Feather maned dragon illustration" width="576"/>
   
+# Lacertocyon plumocrista
   
   
 ## Summary
